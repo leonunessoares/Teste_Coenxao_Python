@@ -1,4 +1,4 @@
-# Teste_Coenxao_Python
+# Teste_Conexao_Python (testa velocidade de Upload e Download de conexão com a internet)
 
 # Instalar pip install speedtest-cli
 
